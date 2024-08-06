@@ -1,4 +1,8 @@
 ---
+output: github_document
+---
+
+---
 title: "Taller_Conejos"
 output: html_document
 date: "2024-08-03"
